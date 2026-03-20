@@ -27,7 +27,3 @@ Core Logic: NumPy (Linear Algebra)
 Visualization: Matplotlib (for loss and accuracy trajectory analysis)
 
 Data Format: H5PY (for handling large-scale structured datasets)
-
-
-🎓 Academic Context
-The implementation follows the strict requirements of the Introduction to Machine Learning course at Uni Wien, focusing on vectorized operations and efficient memory management during the training of deep architectures.
